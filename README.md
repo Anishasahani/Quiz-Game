@@ -1,0 +1,1 @@
+In this JavaScript quiz tutorial, we'll first make a quiz app using HTML CSS and JavaScript. Then we'll make a customized alert to show correct and wrong answers of quiz. We'll also add timer to each question of the JavaScript quiz game. This quiz app project is responsive and looks great on every device. 
